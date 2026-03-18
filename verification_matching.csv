@@ -1,0 +1,292 @@
+﻿dep,lib_commune,num_panneau,nom_liste,ordre,commune_norm,cod_insee,lib_ref,score_fuzzy,pop_2023,methode,tete_liste
+59,Abscon,1,AGIR POUR LES ABSCONNAIS,1,abscon,59002,Abscon,100,4108,exact,Eric GRANATO
+59,Abscon,2,OSONS L'ENTENTE MUNICIPALE,1,abscon,59002,Abscon,100,4108,exact,Jean-Michel FOURMAUX
+59,Annoeullin,1,Rassemblons Annoeullin,1,annoeullin,59011,Annœullin,100,10847,exact,Quentin BLONDEAU
+59,Annoeullin,3,Annoeullin au coeur avec Sébastien Leroy,1,annoeullin,59011,Annœullin,100,10847,exact,Sebastien LEROY
+59,Annoeullin,4,AGIR POUR ANNOEULLIN,1,annoeullin,59011,Annœullin,100,10847,exact,Thierry SPILLEBOUT
+59,Armentières,1,"UNE AUTRE ARMENTIERES, UNIE ET SOLIDAIRE",1,armentieres,59017,Armentières,100,26998,exact,Maxime MOULIN
+59,Armentières,2,"UN NOUVEL ELAN, DANS LE CŒUR ET DANS L'ACTION",1,armentieres,59017,Armentières,100,26998,exact,Jean-Michel MONPAYS
+59,Armentières,3,L'URGENCE D'AGIR POUR ARMENTIERES,1,armentieres,59017,Armentières,100,26998,exact,Michel PLOUY
+59,Aubigny-au-Bac,1,ENSEMBLE POUR NOTRE AVENIR,1,aubigny au bac,59026,Aubigny-au-Bac,100,1143,exact,Mathieu PLANTIN
+59,Aubigny-au-Bac,2,UNE NOUVELLE ENERGIE POUR AUBIGNY,1,aubigny au bac,59026,Aubigny-au-Bac,100,1143,exact,Henri DERASSE
+59,Aubigny-au-Bac,3,CONTINUONS ENSEMBLE POUR AUBIGNY-AU-BAC,1,aubigny au bac,59026,Aubigny-au-Bac,100,1143,exact,Joseph ANSART
+59,Auby,2,DE L'AMBITION POUR AUBY,1,auby,59028,Auby,100,7083,exact,Freddy KACZMAREK
+59,Auby,3,AUBY UN AVENIR EN COMMUN,1,auby,59028,Auby,100,7083,exact,Bernard CZECH
+59,Auby,4,PROCHE DE VOUS,1,auby,59028,Auby,100,7083,exact,Anne-Sophie TASZAREK
+59,Berlaimont,1,"Berlaimont 2026, redynamisons notre ville",1,berlaimont,59068,Berlaimont,100,3159,exact,Christophe SCULFORT
+59,Berlaimont,3,Agir pour Berlaimont,1,berlaimont,59068,Berlaimont,100,3159,exact,Sebastien BOUCHEZ
+59,Bouchain,2,"Ensemble, continuons pour Bouchain",1,bouchain,59092,Bouchain,100,4113,exact,Ludovic ZIENTEK
+59,Bouchain,4,BOUCHAIN DYNAMIQUE ET SEREIN,1,bouchain,59092,Bouchain,100,4113,exact,Luc BROUTA
+59,Bourbourg,2,Bourbourg une passion commune avec Éric Gens,1,bourbourg,59094,Bourbourg,100,6931,exact,Eric GENS
+59,Bourbourg,3,bourbourg au coeur,1,bourbourg,59094,Bourbourg,100,6931,exact,Antoine CONTRANT
+59,Boussois,1,BOUSSOIS ENSEMBLE BATISSONS NOTRE AVENIR,1,boussois,59104,Boussois,100,3123,exact,Evelyne CROIX
+59,Boussois,2,"POUR BOUSSOIS, VOTRE VILLE",1,boussois,59104,Boussois,100,3123,exact,Didier CORBEAUX
+59,Bray-Dunes,2,Ensemble pour Bray-Dunes,1,bray dunes,59107,Bray-Dunes,100,4189,exact,Élodie GARREAU VANHILLE
+59,Bray-Dunes,3,Bray-Dunes Avec Vous,1,bray dunes,59107,Bray-Dunes,100,4189,exact,Grégory EVRARD
+59,Brunémont,1,AGIR POUR BRUNEMONT,1,brunemont,59115,Brunémont,100,704,exact,Eric LEMETTRE
+59,Brunémont,2,"BRUNEMONT NOTRE VILLAGE, NOTRE AVENIR",1,brunemont,59115,Brunémont,100,704,exact,Jonathan LOGEON
+59,Brunémont,3,"Ensemble, agissons pour l'avenir de Brunémont",1,brunemont,59115,Brunémont,100,704,exact,Clément LOCQUET
+59,Busigny,1,OXYGENE,1,busigny,59118,Busigny,100,2435,exact,Christophe LEBRUN
+59,Busigny,2,UN NOUVEAU SOUFFLE POUR BUSIGNY,1,busigny,59118,Busigny,100,2435,exact,Christian PECQUEUX
+59,Cambrai,1,UNION POUR CAMBRAI,1,cambrai,59122,Cambrai,100,31134,exact,Nicolas SIEGLER
+59,Cambrai,2,"Ensemble, un nouvel élan pour Cambrai",1,cambrai,59122,Cambrai,100,31134,exact,Stéphane MAURICE
+59,Cambrai,3,"CAMBRAI, LA NOUVELLE ÉNERGIE",1,cambrai,59122,Cambrai,100,31134,exact,Emeric FRANÇOIS
+59,Comines,2,AGIR ENSEMBLE POUR COMINES,1,comines,59152,Comines,100,12731,exact,Grégory TEMPREMANT
+59,Comines,3,COMINES AVEC PASSION,1,comines,59152,Comines,100,12731,exact,Alexis HOUSET
+59,Condé-sur-l'Escaut,1,Condé avec élan et ambition,1,conde sur l escaut,59153,Condé-sur-l'Escaut,100,9253,exact,Gregory LELONG
+59,Condé-sur-l'Escaut,3,ENSEMBLE ET AUTREMENT POUR CONDÉ,1,conde sur l escaut,59153,Condé-sur-l'Escaut,100,9253,exact,Joël BOIS
+59,Condé-sur-l'Escaut,4,TOUS POUR CONDE SUR L'ESCAUT,1,conde sur l escaut,59153,Condé-sur-l'Escaut,100,9253,exact,Carole MILLET-VÉZILIER
+59,Croix,1,L'UNION POUR CROIX,1,croix,59163,Croix,100,20566,exact,Valentine VERCAMER
+59,Croix,2,ENSEMBLE POUR L'AVENIR DE CROIX,1,croix,59163,Croix,100,20566,exact,Regis CAUCHE
+59,Croix,3,Ensemble pour Croix 2026,1,croix,59163,Croix,100,20566,exact,Jean Maximilien SOBOCINSKI
+59,Croix,4,CROIX INSOUMISE ET CITOYENS,1,croix,59163,Croix,100,20566,exact,Sophie PECQUEUR
+59,Douai,3,"Ensemble, Douai redevient Géante !",1,douai,59178,Douai,100,40250,exact,Coline CRAEYE
+59,Douai,5,Unis Pour Douai,1,douai,59178,Douai,100,40250,exact,Thierry TESSON
+59,Douai,8,DOUAI TOUJOURS !,1,douai,59178,Douai,100,40250,exact,Frédéric CHÉREAU
+59,Douchy-les-Mines,1,À VOS CÔTÉS,1,douchy les mines,59179,Douchy-les-Mines,100,10109,exact,Romain MERVILLE
+59,Douchy-les-Mines,2,"POUR DOUCHY FIÈRE, UNIE ET SOLIDAIRE",1,douchy les mines,59179,Douchy-les-Mines,100,10109,exact,Michel LEFEBVRE
+59,Douchy-les-Mines,4,"DOUCHY, LE TEMPS DU CHANGEMENT !",1,douchy les mines,59179,Douchy-les-Mines,100,10109,exact,Bryan MESNAGER
+59,Escaudain,1,OBJECTIF ESCAUDAIN,1,escaudain,59205,Escaudain,100,9039,exact,Catherine MERCIER DHENNAIN
+59,Escaudain,2,ESCAUDAIN AU COEUR - L'HUMAIN D'ABORD,1,escaudain,59205,Escaudain,100,9039,exact,Bruno SALIGOT
+59,Escaudain,3,ESCAUDAIN POUR TOUS,1,escaudain,59205,Escaudain,100,9039,exact,Eric SPECQ
+59,Faches-Thumesnil,1,Faches-Thumesnil pour vous avec vous,1,faches thumesnil,59220,Faches-Thumesnil,100,18619,exact,Brice LAURET
+59,Faches-Thumesnil,2,Faches-Thumesnil en Commun,1,faches thumesnil,59220,Faches-Thumesnil,100,18619,exact,Patrick PROISY
+59,Faches-Thumesnil,3,FACHES-THUMENIL AUTREMENT,1,faches thumesnil,59220,Faches-Thumesnil,100,18619,exact,Jean-Marc LEVILLAIN
+59,Felleries,1,"Felleries, l'Avenir Ensemble",1,felleries,59226,Felleries,100,1433,exact,Claire DE GROOTE
+59,Felleries,2,Un nouvel élan pour Felleries,1,felleries,59226,Felleries,100,1433,exact,Sandrine DUHAMEL
+59,Felleries,3,"FELLERIES, AVEC VOUS ET POUR VOUS",1,felleries,59226,Felleries,100,1433,exact,Pascal NOYON
+59,Fresnes-sur-Escaut,1,TENONS LE CAP,1,fresnes sur escaut,59253,Fresnes-sur-Escaut,100,7354,exact,Valérie FORNIES
+59,Fresnes-sur-Escaut,2,AGIR ENSEMBLE POUR FRESNES SUR ESCAUT,1,fresnes sur escaut,59253,Fresnes-sur-Escaut,100,7354,exact,Fabrice ZAREMBA
+59,Fretin,1,AGIR ENSEMBLE POUR FRETIN 2026,1,fretin,59256,Fretin,100,3214,exact,Marie-Jeanne MARSEGUERRA
+59,Fretin,3,Un Nouvel Élan Citoyen - Fretin Demain,1,fretin,59256,Fretin,100,3214,exact,Laurent CARPELS
+59,Goeulzin,1,AGIR POUR GOEULZIN - MUNICIPALES 2026,1,goeulzin,59263,Gœulzin,100,1070,exact,Vincent WANTIER
+59,Goeulzin,2,GOEULZIN A COEUR,1,goeulzin,59263,Gœulzin,100,1070,exact,Denis LAMY
+59,Goeulzin,3,Continuons Ensemble,1,goeulzin,59263,Gœulzin,100,1070,exact,Francis FUSTIN
+59,Gondecourt,1,Mon parti c'est Gondecourt,1,gondecourt,59266,Gondecourt,100,4148,exact,Guillaume François Charles LÉVECQ
+59,Gondecourt,2,GONDECOURT DEMAIN,1,gondecourt,59266,Gondecourt,100,4148,exact,Régis BUÉ
+59,Gondecourt,3,Ensemble Vivons Gondecourt,1,gondecourt,59266,Gondecourt,100,4148,exact,Vincent HALLOT
+59,Guesnain,1,"A GUESNAIN, L'ESSENTIEL C'EST VOUS",1,guesnain,59276,Guesnain,100,4635,exact,Romuald SAENEN
+59,Guesnain,2,"GUESNAIN, NOTRE VILLE, VOTRE AVENIR",1,guesnain,59276,Guesnain,100,4635,exact,Sylvain DEVRED
+59,Guesnain,3,Fidèles à Guesnain tournés vers demain,1,guesnain,59276,Guesnain,100,4635,exact,Maryline LUCAS
+59,Halluin,1,"UN SAVOIR-FAIRE, UNE ÉNERGIE NOUVELLE",1,halluin,59279,Halluin,100,20715,exact,Jean-Christophe DESTAILLEUR
+59,Halluin,2,VOUS ÊTES HALLUIN,1,halluin,59279,Halluin,100,20715,exact,Laurent CAURE
+59,Hasnon,2,"Hasnon, une ambition partagée",1,hasnon,59284,Hasnon,100,3849,exact,André DESMEDT
+59,Hasnon,3,COEUR D'HASNONAIS,1,hasnon,59284,Hasnon,100,3849,exact,Andy VERDIERE
+59,Hasnon,4,UN NOUVEL ELAN POUR HASNON,1,hasnon,59284,Hasnon,100,3849,exact,Emmanuel GILLOT
+59,Haspres,1,HASPRES EN ACTION,1,haspres,59285,Haspres,100,2626,exact,Théo LEMAIRE
+59,Haspres,2,HASPRES À VENIR,1,haspres,59285,Haspres,100,2626,exact,Jean-Yves VANDERSCHILT
+59,Haspres,3,AGIR POUR ET AVEC NOTRE VILLAGE,1,haspres,59285,Haspres,100,2626,exact,Jean-Francois DELATTRE
+59,Haubourdin,1,Haubourdin Alternative Citoyenne,1,haubourdin,59286,Haubourdin,100,15074,exact,Emmanuel MARECAILLE
+59,Haubourdin,2,AGISSONS ENSEMBLE POUR HAUBOURDIN,1,haubourdin,59286,Haubourdin,100,15074,exact,Pierre BEHARELLE
+59,Haubourdin,3,"HAUBOURDIN, FIÈRE ET VIVANTE",1,haubourdin,59286,Haubourdin,100,15074,exact,Victor CATTEAU
+59,Herzeele,1,Ensemble faisons battre le coeur d'Herzeele,1,herzeele,59305,Herzeele,100,1638,exact,Valerie VANHERSEL
+59,Herzeele,2,herzeele c'est vous,1,herzeele,59305,Herzeele,100,1638,exact,Celine BOUCKENOOGHE
+59,Herzeele,3,Tous unis pour Herzeele,1,herzeele,59305,Herzeele,100,1638,exact,Stephane FRANCKE
+59,Hérin,2,"Hérin, Ensemble vers l'avenir",1,herin,59302,Hérin,100,4169,exact,Florent PASEK
+59,Hérin,3,Tous unis agissons pour Hérin,1,herin,59302,Hérin,100,4169,exact,Mathieu FILMOTTE
+59,La Gorgue,1,votre voix notre voie réunis pour la gorgue,1,la gorgue,59268,La Gorgue,100,5616,exact,Michel DUPAS
+59,La Gorgue,2,La gorgue ensemble,1,la gorgue,59268,La Gorgue,100,5616,exact,Caroline MOUFLIN
+59,La Gorgue,3,La gorgue avenir,1,la gorgue,59268,La Gorgue,100,5616,exact,Monique EVRARD
+59,La Gorgue,4,Un nouvel élan avec vous pour la gorgue,1,la gorgue,59268,La Gorgue,100,5616,exact,Philippe BROUTEELE
+59,Lambersart,1,Lambersart En Commun,1,lambersart,59328,Lambersart,100,27090,exact,François SCHMITT
+59,Lambersart,2,LAURENT FRAPPART POUR LAMBERSART,1,lambersart,59328,Lambersart,100,27090,exact,Laurent FRAPPART
+59,Lambersart,3,Préservons Lambersart,1,lambersart,59328,Lambersart,100,27090,exact,Gontran GUNS
+59,Lambersart,4,NicolasBouche2026,1,lambersart,59328,Lambersart,100,27090,exact,Nicolas BOUCHE
+59,Ligny-en-Cambrésis,2,"AVEC VOUS, FAISONS VIVRE LIGNY",1,ligny en cambresis,59349,Ligny-en-Cambrésis,100,1847,exact,Christelle MERIAUX
+59,Ligny-en-Cambrésis,3,"Notre priorité, c'est vous !",1,ligny en cambresis,59349,Ligny-en-Cambrésis,100,1847,exact,Julien LÉONARD
+59,Lille,1,TOUT POUR LILLE DEMAIN,1,lille,59350,Lille,100,238246,exact,Arnaud DESLANDES
+59,Lille,2,FAIRE RESPIRER LILLE,1,lille,59350,Lille,100,238246,exact,Violette SPILLEBOUT
+59,Lille,7,UNE AUTRE LILLE,1,lille,59350,Lille,100,238246,exact,Matthieu VALET
+59,Lille,9,"LILLE INSOUMISE, ÉCOLOGISTE ET POPULAIRE",1,lille,59350,Lille,100,238246,exact,Lahouaria ADDOUCHE
+59,Louvroil,2,LOUVROIL CITOYENNE ET REPUBLICAINE,1,louvroil,59365,Louvroil,100,6294,exact,Guiseppe ASCONE
+59,Louvroil,4,AVEC VOUS POUR LOUVROIL,1,louvroil,59365,Louvroil,100,6294,exact,Fatiha KACIMI
+59,Marly,1,TOUTE NOTRE ENERGIE POUR MARLY,1,marly,59383,Marly,100,11995,exact,Jean-Noël VERFAILLIE
+59,Marly,2,UNION POUR MARLY,1,marly,59383,Marly,100,11995,exact,Jérôme LEMAN
+59,Marquillies,2,AGIR ENSEMBLE,1,marquillies,59388,Marquillies,100,1961,exact,Eric BOCQUET
+59,Marquillies,3,COEURS DE MARQUILLIES 2026,1,marquillies,59388,Marquillies,100,1961,exact,Jacques RIBAILLE
+59,Montigny-en-Ostrevent,1,MONTIGNY TERRE D'OSTREVENT,1,montigny en ostrevent,59414,Montigny-en-Ostrevent,100,4495,exact,Salvatore DE CESARE
+59,Montigny-en-Ostrevent,2,MIEUX VIVRE A MONTIGNY,1,montigny en ostrevent,59414,Montigny-en-Ostrevent,100,4495,exact,Pascal JUMEAUX
+59,Montigny-en-Ostrevent,3,MONTIGNY RASSEMBLEMENT,1,montigny en ostrevent,59414,Montigny-en-Ostrevent,100,4495,exact,Hervé MORELLE
+59,Neuville-Saint-Rémy,1,Ensemble pour Neuville Saint Rémy,1,neuville saint remy,59428,Neuville-Saint-Rémy,100,4012,exact,Dimitri ROCQUET
+59,Neuville-Saint-Rémy,2,UN NOUVEAU CAP POUR NEUVILLE SAINT REMY,1,neuville saint remy,59428,Neuville-Saint-Rémy,100,4012,exact,Vincent FREMEAUX
+59,Neuville-Saint-Rémy,3,NEUVILLE SAINT REMY ENCORE PLUS LOIN,1,neuville saint remy,59428,Neuville-Saint-Rémy,100,4012,exact,Christian DUMONT
+59,Quesnoy-sur-Deûle,1,AGIR POUR QUESNOY,1,quesnoy sur deule,59482,Quesnoy-sur-Deûle,100,6805,exact,Patrick DECOSTER
+59,Quesnoy-sur-Deûle,2,QUESNOY POUR TOUS NATURELLEMENT,1,quesnoy sur deule,59482,Quesnoy-sur-Deûle,100,6805,exact,Béatrice PROUVOST
+59,Quesnoy-sur-Deûle,4,VIVONS QUESNOY,1,quesnoy sur deule,59482,Quesnoy-sur-Deûle,100,6805,exact,Alexandre DELPLACE
+59,Quiévy,1,Quiévy c'est vous,1,quievy,59485,Quiévy,100,1803,exact,Julien WAXIN
+59,Quiévy,3,Ensemble pour Quiévy,1,quievy,59485,Quiévy,100,1803,exact,Sylvain HALLE
+59,Recquignies,1,RECQUIGNIES-ROCQ UNIS POUR CONSTRUIRE L'AVENIR,1,recquignies,59495,Recquignies,100,2338,exact,Linda WALLEZ
+59,Recquignies,2,Mieux vivre et bien grandir à Recquignies-Rocq,1,recquignies,59495,Recquignies,100,2338,exact,Olivier GARCIA
+59,Recquignies,3,LISTE D'UNION POUR RECQUIGNIES ET ROCQ,1,recquignies,59495,Recquignies,100,2338,exact,Ghislain ROSIER
+59,Rieux-en-Cambrésis,1,Heu'Rieux Ensemble,1,rieux en cambresis,59502,Rieux-en-Cambrésis,100,1425,exact,Alexis SMAGA
+59,Rieux-en-Cambrésis,2,BIEN VIVRE ENSEMBLE À RIEUX,1,rieux en cambresis,59502,Rieux-en-Cambrésis,100,1425,exact,Michel MOUSSI
+59,Rieux-en-Cambrésis,3,Tous unis pour Rieux,1,rieux en cambresis,59502,Rieux-en-Cambrésis,100,1425,exact,Florentin MACHUT
+59,Roubaix,1,FIERS DE ROUBAIX,1,roubaix,59512,Roubaix,100,98286,exact,David GUIRAUD
+59,Roubaix,2,REDRESSER ROUBAIX ENSEMBLE,1,roubaix,59512,Roubaix,100,98286,exact,Céline SAYAH
+59,Roubaix,5,ROUBAIX ENSEMBLE AVEC ALEXANDRE GARCIN,1,roubaix,59512,Roubaix,100,98286,exact,Alexandre GARCIN
+59,Roubaix,6,AGIR AU COEUR DE ROUBAIX,1,roubaix,59512,Roubaix,100,98286,exact,Karim AMROUNI
+59,Saint-André-lez-Lille,2,"Osons Saint-André avec Cyprien Richer, Liste citoyenne, écologiste et sociale",1,saint andre lez lille,59527,Saint-André-lez-Lille,100,13233,exact,Cyprien RICHER
+59,Saint-André-lez-Lille,3,SAINT-ANDRÉ DEMAIN,1,saint andre lez lille,59527,Saint-André-lez-Lille,100,13233,exact,Thomas FABRE
+59,Saint-Hilaire-lez-Cambrai,1,UNE NOUVELLE ÈRE POUR SAINT HILAIRE,1,saint hilaire lez cambrai,59533,Saint-Hilaire-lez-Cambrai,100,1558,exact,Gérard QUENNESSON
+59,Saint-Hilaire-lez-Cambrai,2,CONTINUONS ENSEMBLE POUR DEMAIN,1,saint hilaire lez cambrai,59533,Saint-Hilaire-lez-Cambrai,100,1558,exact,Maurice DEFAUX
+59,Saint-Hilaire-lez-Cambrai,3,"UNE DYNAMIQUE NOUVELLE, UN ELAN POUR DEMAIN",1,saint hilaire lez cambrai,59533,Saint-Hilaire-lez-Cambrai,100,1558,exact,Éric WATREMEZ
+59,Salomé,1,UNIS POUR SALOMÉ,1,salome,59550,Salomé,100,3182,exact,Vincent DELAUTRE
+59,Salomé,4,SALOMÉ NOTRE VILLAGE: RURALITÉ ET MODERNITÉ,1,salome,59550,Salomé,100,3182,exact,Pierre CANESSE
+59,Somain,1,"SOMAIN, LE BON SENS !",1,somain,59574,Somain,100,11766,exact,Sigline DE CAMPEAU
+59,Somain,2,SOMAIN AU COEUR AVEC JEAN-BAPTISTE GROS ET SON EQUIPE,1,somain,59574,Somain,100,11766,exact,Jean-Baptiste GROS
+59,Somain,4,SOMAIN ENSEMBLE,1,somain,59574,Somain,100,11766,exact,Julien QUENNESSON
+59,Templeuve-en-Pévèle,1,TEMPLEUVE PAR NATURE,1,templeuve en pevele,59586,Templeuve-en-Pévèle,100,7202,exact,Amandine GOUDARD
+59,Templeuve-en-Pévèle,3,Écouter et Agir pour Templeuve-en-Pévèle avec Jean Moulliere,1,templeuve en pevele,59586,Templeuve-en-Pévèle,100,7202,exact,Jean MOULLIERE
+59,Tilloy-lez-Cambrai,1,"ENSEMBLE, ENGAGEONS-NOUS POUR TILLOY-LEZ-CAMBRAI",1,tilloy lez cambrai,59597,Tilloy-lez-Cambrai,100,695,exact,Nathalie MONIEZ
+59,Tilloy-lez-Cambrai,2,CONTINUONS ENSEMBLE VERS UN AVENIR SEREIN,1,tilloy lez cambrai,59597,Tilloy-lez-Cambrai,100,695,exact,Sonia LANCEL
+59,Tilloy-lez-Cambrai,3,mieux vivre ensemble à tilloy-lez-cambrai,1,tilloy lez cambrai,59597,Tilloy-lez-Cambrai,100,695,exact,Rose-Marie METHNER
+59,Tourcoing,4,TOURCOING INSOUMISE,1,tourcoing,59599,Tourcoing,100,98772,exact,Emilie CROËS
+59,Tourcoing,5,VIVE TOURCOING AVEC DORIANE BECUE,1,tourcoing,59599,Tourcoing,100,98772,exact,Doriane BECUE
+59,Tourcoing,6,UNIS POUR TOURCOING,1,tourcoing,59599,Tourcoing,100,98772,exact,Bastien VERBRUGGHE
+59,Trith-Saint-Léger,1,ENSEMBLE TSL,1,trith saint leger,59603,Trith-Saint-Léger,100,6019,exact,Christophe VANHERSECKER
+59,Trith-Saint-Léger,2,TRITH SAINT LEGER AU COEUR,1,trith saint leger,59603,Trith-Saint-Léger,100,6019,exact,Dominique SAVARY
+59,Trith-Saint-Léger,3,TRITH : ENFIN LE CHANGEMENT !,1,trith saint leger,59603,Trith-Saint-Léger,100,6019,exact,Mickaël DUFORT
+59,Valenciennes,1,VALENCIENNES POUR VOUS & AVEC VOUS,1,valenciennes,59606,Valenciennes,100,43468,exact,Laurent DEGALLAIX
+59,Valenciennes,2,RASSEMBLER VALENCIENNES,1,valenciennes,59606,Valenciennes,100,43468,exact,Tanneguy ADRIENCENSE
+59,Valenciennes,3,Valenciennes Autrement,1,valenciennes,59606,Valenciennes,100,43468,exact,Luce TROADEC
+59,Viesly,1,TOUS POUR VIESLY,1,viesly,59614,Viesly,100,1364,exact,Gilles QUARRE
+59,Viesly,2,BIEN VIVRE A VIESLY,1,viesly,59614,Viesly,100,1364,exact,Maryse BALEMBOIS
+59,Viesly,3,"VIESLY, NOTRE AVENIR COMMUN",1,viesly,59614,Viesly,100,1364,exact,Pascal SANTERRE
+59,Vieux-Condé,1,VIEUX-CONDÉ Ô COEUR,1,vieux conde,59616,Vieux-Condé,100,10617,exact,Franck AGAH
+59,Vieux-Condé,2,Unis pour un nouveau départ,1,vieux conde,59616,Vieux-Condé,100,10617,exact,Bruno MONNIER
+59,Vieux-Condé,3,Pour Construire Ensemble,1,vieux conde,59616,Vieux-Condé,100,10617,exact,David BUSTIN
+59,Villeneuve-d'Ascq,4,Ensemble pour Villeneuve d'Ascq 2026,1,villeneuve d ascq,59009,Villeneuve-d'Ascq,100,62868,exact,Sylvain ESTAGER
+59,Villeneuve-d'Ascq,5,LE PRINTEMPS VILLENEUVOIS,1,villeneuve d ascq,59009,Villeneuve-d'Ascq,100,62868,exact,Pauline SÉGARD
+59,Villeneuve-d'Ascq,6,FAISONS MIEUX POUR VILLENEUVE D'ASCQ,1,villeneuve d ascq,59009,Villeneuve-d'Ascq,100,62868,exact,Ugo BERNALICIS
+59,Villeneuve-d'Ascq,7,AVEC VOUS,1,villeneuve d ascq,59009,Villeneuve-d'Ascq,100,62868,exact,Vincent BALEDENT
+59,Wargnies-le-Grand,1,WARGNIES POUR VOUS ET AVEC VOUS,1,wargnies le grand,59639,Wargnies-le-Grand,100,1125,exact,Catherine MOREL
+59,Wargnies-le-Grand,3,WARGNIES EN GRAND,1,wargnies le grand,59639,Wargnies-le-Grand,100,1125,exact,Jérémy ZAREMBA
+59,Wattignies,1,UNIS POUR WATTIGNIES,1,wattignies,59648,Wattignies,100,15525,exact,Marion GUIHARD
+59,Wattignies,2,NOUVELLE ENERGIE WATTIGNIES,1,wattignies,59648,Wattignies,100,15525,exact,Olivier GOSSET
+59,Wattignies,3,WATTIGNIES C'EST VOUS POUR VOUS,1,wattignies,59648,Wattignies,100,15525,exact,Frederic FAUCOMPREZ
+59,Wattrelos,2,"UNIS, POUR WATTRELOS, LE COEUR GAGNANT!",1,wattrelos,59650,Wattrelos,100,40847,exact,Dominique BAERT
+59,Wattrelos,3,Wattrelos SOLIDAIRE et CITOYENNE,1,wattrelos,59650,Wattrelos,100,40847,exact,Thierry DUEL
+59,Wattrelos,4,"WATTRELOS VERS LE HAUT, EN SÉCURITÉ",1,wattrelos,59650,Wattrelos,100,40847,exact,Eddy GOEDEHAUD
+59,Wavrechain-sous- Denain,4,"WAVRECHAIN-SOUS-DENAIN VOS IDEES, NOS ACTIONS !",1,wavrechain sous denain,59651,Wavrechain-sous-Denain,100,1599,exact,Jean-François BURETTE
+59,Wavrechain-sous-Denain,2,ENSEMBLE AGISSONS POUR L'AVENIR DE NOTRE VILLAGE,1,wavrechain sous denain,59651,Wavrechain-sous-Denain,100,1599,exact,Jacques DELCROIX
+59,Wignehies,1,UNE EQUIPE ENGAGEE ET RENFORCEE POUR VOUS,1,wignehies,59659,Wignehies,100,2804,exact,Jean Guy BERTIN
+59,Wignehies,4,REUSSIR ENSEMBLE POUR WIGNEHIES,1,wignehies,59659,Wignehies,100,2804,exact,Clement CHIKH
+59,Willems,1,POUR MIEUX VIVRE A WILLEMS notre passion Commune 2026,1,willems,59660,Willems,100,2941,exact,Thierry ROLLAND
+59,Willems,2,WILLEMS ENSEMBLE,1,willems,59660,Willems,100,2941,exact,Simond COLAONE
+59,Willems,3,AGISSONS POUR WILLEMS,1,willems,59660,Willems,100,2941,exact,Etienne HONVAULT
+62,Ambricourt,1,Bien vivre à Ambricourt,1,ambricourt,62026,Ambricourt,100,118,exact,Mathieu DOLLÉ
+62,Ambricourt,2,AMBRICOURT ENSEMBLE AUJOURD'HUI ET DEMAIN,1,ambricourt,62026,Ambricourt,100,118,exact,Raphaël HERBERT
+62,Annay,1,ENSEMBLE REVEILLONS ANNAY,1,annay,62033,Annay,100,4571,exact,Pascal CAMPEL
+62,Annay,3,LISTE DE RASSEMBLEMENT UNION ANNAYSIENNE-CHANGER V,1,annay,62033,Annay,100,4571,exact,Yves TERLAT
+62,Annay,4,L'AVENIR D'ANNAY ENTRE VOS MAINS,1,annay,62033,Annay,100,4571,exact,David KUSNIREK
+62,Ardres,1,CAP VERS 2033,1,ardres,62038,Ardres,100,4389,exact,Ludovic LOQUET
+62,Ardres,2,PARTAGEONS DEMAIN À ARDRES !,1,ardres,62038,Ardres,100,4389,exact,Quentin LOUIS
+62,Ardres,3,Osons l'avenir ensemble,1,ardres,62038,Ardres,100,4389,exact,Quentin PATERNOSTER
+62,Attin,1,"Préserver l'essentiel, construire l'avenir",1,attin,62044,Attin,100,885,exact,Philippe FOURCROY
+62,Attin,2,POUR LAMOUR D ATTIN,1,attin,62044,Attin,100,885,exact,Pascal LAMOUR
+62,Attin,3,"Attin, à l'écoute de chacun",1,attin,62044,Attin,100,885,exact,Dominique DACHICOURT
+62,Beaurainville,1,Un nouvel élan pour Beaurainville,1,beaurainville,62100,Beaurainville,100,2014,exact,Marie Pierre CARPENTIER
+62,Beaurainville,2,Pour Beaurainville : Vos idées... nos actions,1,beaurainville,62100,Beaurainville,100,2014,exact,Ghislain TETARD
+62,Beaurainville,3,POUR LES BEAURAINVILLOISES ET LES BEAURAINVILLOIS,1,beaurainville,62100,Beaurainville,100,2014,exact,Alain BARBIER
+62,Berck,1,Ensemble pour Berck,1,berck,62108,Berck,100,12951,exact,Bruno COUSEIN
+62,Berck,2,Renouveau pour Berck,1,berck,62108,Berck,100,12951,exact,Benoît DOLLE
+62,Berck,3,BERCK PASSIONNÉMENT,1,berck,62108,Berck,100,12951,exact,Jean-Luc BOUVIER
+62,Billy-Montigny,2,UNE NOUVELLE ENERGIE POUR BILLY-MONTIGNY,1,billy montigny,62133,Billy-Montigny,100,7937,exact,Yanis GAUDILLAT
+62,Billy-Montigny,3,POUR UN AVENIR COMMUN,1,billy montigny,62133,Billy-Montigny,100,7937,exact,Bruno TRONI
+62,Boiry-Notre-Dame,2,POURSUIVONS NOTRE ENGAGEMENT POUR BOIRY,1,boiry notre dame,62145,Boiry-Notre-Dame,100,450,exact,Daniel MARTINÉ
+62,Boiry-Notre-Dame,3,POUR QUE BOIRY RESTE UN VILLAGE,1,boiry notre dame,62145,Boiry-Notre-Dame,100,450,exact,Aurélie KULAS
+62,Carvin,1,ENSEMBLE POUR CARVIN,1,carvin,62215,Carvin,100,17909,exact,Philippe KEMEL
+62,Carvin,2,"RENDRE CARVIN PLUS BELLE, PLUS SURE, PLUS JUSTE !",1,carvin,62215,Carvin,100,17909,exact,Arnaud DE RIGNE
+62,Carvin,3,CARVIN AVENIR,1,carvin,62215,Carvin,100,17909,exact,Laurent DERNONCOURT
+62,Coulogne,1,"Coulogne, un nouveau souffle",1,coulogne,62244,Coulogne,100,5438,exact,Morgan PRUVOT
+62,Coulogne,3,Coulogne apaisé,1,coulogne,62244,Coulogne,100,5438,exact,Andy FLAMENT
+62,Coulogne,5,Fiers de Coulogne,1,coulogne,62244,Coulogne,100,5438,exact,Jean-Marc PUISSESSEAU
+62,Coulogne,7,Simplement Coulogne,1,coulogne,62244,Coulogne,100,5438,exact,Jérémy CHARAVEL
+62,Coulogne,8,Reprendre le cap,1,coulogne,62244,Coulogne,100,5438,exact,Isabelle MUYS
+62,Courcelles-lès-Lens,2,"COURCELLES-LES-LENS, UNE HISTOIRE - L'AVENIR",1,courcelles les lens,62249,Courcelles-lès-Lens,100,7830,exact,Marie WASILEWSKI
+62,Courcelles-lès-Lens,3,POURSUIVRE ET REUSSIR AVEC VOUS !,1,courcelles les lens,62249,Courcelles-lès-Lens,100,7830,exact,Édith BLEUZET-CARLIER
+62,Courcelles-lès-Lens,4,EN AVANT POUR COURCELLES-LES-LENS,1,courcelles les lens,62249,Courcelles-lès-Lens,100,7830,exact,Pierre SZCZYPINSKI
+62,Cucq,1,UNIR ET AGIR,1,cucq,62261,Cucq,100,5129,exact,Catherine BIGOT
+62,Cucq,3,LE TRIANGLE CITOYEN,1,cucq,62261,Cucq,100,5129,exact,Pierre-Marie GUIDEZ
+62,Cucq,4,Renouveau 2026,1,cucq,62261,Cucq,100,5129,exact,David FLAHAUT
+62,Divion,1,"ENSEMBLE, DIVION - VISION 2032",1,divion,62270,Divion,100,6766,exact,Jacky LEMOINE
+62,Divion,2,"DIVION, VOTRE VISION",1,divion,62270,Divion,100,6766,exact,Cédric RENAUT
+62,Divion,4,DIVION POUR VOUS,1,divion,62270,Divion,100,6766,exact,Emeline DELPLANQUE
+62,Dourges,1,AGIR ENSEMBLE POUR DOURGES,1,dourges,62274,Dourges,100,6139,exact,Antoine GIBOIRE
+62,Dourges,2,LES DOURGEOIS EN ACTION,1,dourges,62274,Dourges,100,6139,exact,Frédéric RICHARD
+62,Dourges,3,ALLIANCE CITOYENNE VOUS AVANT TOUT,1,dourges,62274,Dourges,100,6139,exact,Tony FRANCONVILLE
+62,Etaples,1,ETAPLES EN GRAND,1,etaples,62318,Étaples,100,10710,exact,Paul BERRIER
+62,Etaples,2,UNIS POUR L'AVENIR D'ETAPLES-SUR-MER,1,etaples,62318,Étaples,100,10710,exact,Franck TINDILLER
+62,Etaples,3,ÉTAPLES-SUR-MER PASSIONNÉMENT,1,etaples,62318,Étaples,100,10710,exact,Sébastien BAILLET
+62,Evin-Malmaison,1,"Evin-Malmaison, Aujourd'hui-Demain",1,evin malmaison,62321,Évin-Malmaison,100,4628,exact,Frank VASSEUR
+62,Evin-Malmaison,2,AGIR ENSEMBLE POUR FAIRE REVIVRE EVIN,1,evin malmaison,62321,Évin-Malmaison,100,4628,exact,Christophe CAUX
+62,Fiennes,1,"Fiennes, coeur de village",1,fiennes,62334,Fiennes,100,850,exact,Eloi BONNINGUES
+62,Fiennes,3,Une énergie nouvelle pour Fiennes,1,fiennes,62334,Fiennes,100,850,exact,Patricia DELHAYE
+62,Fontaine-lès-Croisilles,1,Agir ensemble pour Fontaine,1,fontaine les croisilles,62343,Fontaine-lès-Croisilles,100,273,exact,Odile BUCQUET
+62,Fontaine-lès-Croisilles,2,EN AVANT FONTAINE,1,fontaine les croisilles,62343,Fontaine-lès-Croisilles,100,273,exact,Cédric DOLET
+62,Fontaine-lès-Croisilles,3,"UNIS DANS LA DIVERSITÉ, CONSTRUISONS DEMAIN",1,fontaine les croisilles,62343,Fontaine-lès-Croisilles,100,273,exact,Luc CHATELAIN
+62,Fouquières-lès-Lens,1,REANIMONS FOUQUIERES,1,fouquieres les lens,62351,Fouquières-lès-Lens,100,6087,exact,Carnot BOURGEOIS
+62,Fouquières-lès-Lens,2,AVEC VOUS POUR FOUQUIERES,1,fouquieres les lens,62351,Fouquières-lès-Lens,100,6087,exact,Isabelle BUYCK DHINNIN
+62,Fouquières-lès-Lens,3,UNIS POUR FOUQUIERES,1,fouquieres les lens,62351,Fouquières-lès-Lens,100,6087,exact,Donata HOCHART
+62,Gouy-Saint-André,1,UN NOUVEAU SOUFFLE POUR NOTRE VILLAGE,1,gouy saint andre,62382,Gouy-Saint-André,100,659,exact,Sophie DUQUENOY
+62,Gouy-Saint-André,3,Agir ensemble pour Gouy,1,gouy saint andre,62382,Gouy-Saint-André,100,659,exact,Stéphane MARIETTE
+62,Gouy-Saint-André,4,S'UNIR POUR REUSSIR,1,gouy saint andre,62382,Gouy-Saint-André,100,659,exact,Grégory LEROY
+62,Gouy-sous-Bellonne,1,AGISSONS POUR GOUY,1,gouy sous bellonne,62383,Gouy-sous-Bellonne,100,1391,exact,Véronique DHENIN
+62,Gouy-sous-Bellonne,3,GOUY ENSEMBLE,1,gouy sous bellonne,62383,Gouy-sous-Bellonne,100,1391,exact,Christophe KOLASINSKI
+62,Grenay,1,Ensemble pour l'avenir de Grenay,1,grenay,62386,Grenay,100,6644,exact,Christian CHAMPIRE
+62,Grenay,2,"GRENAY 2026, POUR VOUS, AVEC VOUS",1,grenay,62386,Grenay,100,6644,exact,Christelle LELIEUX-BUISSETTE
+62,Grenay,3,LE CHANGEMENT POUR GRENAY,1,grenay,62386,Grenay,100,6644,exact,Daisy DUVEAU
+62,Herbinghen,1,"Préservons notre village, ensemble construisons son avenir",1,herbinghen,62432,Herbinghen,100,415,exact,Valentin DEBONNE
+62,Herbinghen,2,"Ensemble, faisons vivre Herbinghen",1,herbinghen,62432,Herbinghen,100,415,exact,Ludovic DERTHE
+62,Herbinghen,3,Un nouveau souffle pour HERBINGHEN,1,herbinghen,62432,Herbinghen,100,415,exact,Paul-Marie EVRARD
+62,Houvin-Houvigneul,1,NOTRE ENGAGEMENT : AGIR ENSEMBLE POUR LE VILLAGE,1,houvin houvigneul,62459,Houvin-Houvigneul,100,247,exact,Ludovic DEGOUVE
+62,Houvin-Houvigneul,3,"L'harmonie retrouvée, le village embelli",1,houvin houvigneul,62459,Houvin-Houvigneul,100,247,exact,Pierre-Etienne JUD
+62,La Comté,1,LA COMTE 2026,1,la comte,62232,La Comté,100,879,exact,Joan GUSTIN
+62,La Comté,2,Continuons d'agir pour La Comté,1,la comte,62232,La Comté,100,879,exact,Franck DA SILVA
+62,Lapugnoy,1,CONTINUONS ENSEMBLE POUR L'AVENIR DE LAPUGNOY,1,lapugnoy,62489,Lapugnoy,100,3481,exact,Alain DELANNOY
+62,Lapugnoy,3,VIVRE ENSEMBLE POUR LAPUGNOY,1,lapugnoy,62489,Lapugnoy,100,3481,exact,Yannick DESFONTAINES
+62,Lillers,1,LILLERS AUTREMENT,1,lillers,62516,Lillers,100,10193,exact,Christophe FLAJOLLET
+62,Lillers,2,Un nouveau souffle pour Lillers !,1,lillers,62516,Lillers,100,10193,exact,Raphaël ERALDI
+62,Lillers,3,LILLERS EN COMMUN,1,lillers,62516,Lillers,100,10193,exact,Carole DUBOIS
+62,Linzeux,1,LINZEUX L'ESPRIT VILLAGE AVANT TOUT,1,linzeux,62518,Linzeux,100,174,exact,Jean-Noël FOURDINIER
+62,Linzeux,2,POUR LINZEUX ET SON CADRE DE VIE,1,linzeux,62518,Linzeux,100,174,exact,Raymond HOCHART
+62,Liévin,3,LIEVIN POUR VOUS D'ABORD !,1,lievin,62510,Liévin,100,30063,exact,Dany PAIVA
+62,Liévin,4,LIEVIN NOTRE ENERGIE COMMUNE - LISTE D'UNION ET DE PRO,1,lievin,62510,Liévin,100,30063,exact,Jérôme DARRAS
+62,Lumbres,1,LUMBRES AUTREMENT,1,lumbres,62534,Lumbres,100,3579,exact,Vincent MONBAILLY
+62,Lumbres,2,Continuons d'agir pour Lumbres,1,lumbres,62534,Lumbres,100,3579,exact,Joëlle DELRUE
+62,Lumbres,3,Ensemble pour Lumbres,1,lumbres,62534,Lumbres,100,3579,exact,Jean-Philippe QUAGEBEUR
+62,Maroeuil,1,"POUR MAROEUIL, SIMPLEMENT",1,maroeuil,62557,Marœuil,100,2422,exact,Aldo BALESTRA
+62,Maroeuil,3,Une nouvelle histoire à écrire ensemble,1,maroeuil,62557,Marœuil,100,2422,exact,Sébastien DELATTRE
+62,Monchy-Breton,1,TOUS UNIS POUR LE RENOUVEAU DE NOTRE VILLAGE,1,monchy breton,62580,Monchy-Breton,100,512,exact,Vanessa CAPENDU
+62,Monchy-Breton,3,ENSEMBLE POUR MONCHY-BRETON,1,monchy breton,62580,Monchy-Breton,100,512,exact,Linda CAUCHY
+62,Montigny-en-Gohelle,1,EN AVANT POUR MONTIGNY,1,montigny en gohelle,62587,Montigny-en-Gohelle,100,9743,exact,Odile CASIER
+62,Montigny-en-Gohelle,3,"MONTIGNY, UNE VILLE POUR TOUS",1,montigny en gohelle,62587,Montigny-en-Gohelle,100,9743,exact,Marcello DELLA FRANCA
+62,Oignies,1,OIGNIES POUR VOUS,1,oignies,62637,Oignies,100,10323,exact,François VIAL
+62,Oignies,3,UNIS POUR OIGNIES,1,oignies,62637,Oignies,100,10323,exact,Fabienne DUPUIS-MERLEVEDE
+62,Pernes,1,Une nouvelle dynamique pour PERNES,1,pernes,62652,Pernes,100,1574,exact,Jérôme JOSSIEN
+62,Pernes,2,"AVEC VOUS POUR PERNES, de nos racines à l'avenir",1,pernes,62652,Pernes,100,1574,exact,Hélène MERLIN
+62,Pernes,3,UNIR NOS FORCES POUR PERNES,1,pernes,62652,Pernes,100,1574,exact,Jérôme LOBEL
+62,Pont-à-Vendin,1,Fiers d'hier unis pour demain,1,pont a vendin,62666,Pont-à-Vendin,100,3062,exact,Sandra BABLIN
+62,Pont-à-Vendin,3,RASSEMBLEMENT POUR PONT-A-VENDIN,1,pont a vendin,62666,Pont-à-Vendin,100,3062,exact,Noé CARETTE
+62,Pont-à-Vendin,4,"Avec vous, construisons l'avenir de notre ville Pont-à-Vendin",1,pont a vendin,62666,Pont-à-Vendin,100,3062,exact,Nicolas FRANCKE
+62,Rety,1,RETY CITOYENS,1,rety,62705,Rety,100,2032,exact,Pascal LEBECQ
+62,Rety,2,AMBITIONS POUR RETY,1,rety,62705,Rety,100,2032,exact,Dominique GALLET
+62,Rety,3,UNIS POUR RETY,1,rety,62705,Rety,100,2032,exact,Patrick BERNARD
+62,Rivière,1,TOUJOURS EN ACTION POUR PRÉSERVER RIVIERE,1,riviere,62712,Rivière,100,1123,exact,Gabriel BERTEIN
+62,Rivière,2,EN AVANT,1,riviere,62712,Rivière,100,1123,exact,Julien QUIGNON
+62,Saint-Pol-sur-Ternoise,1,RASSEMBLEMENT POUR LA CAPITALE DU TERNOIS,1,saint pol sur ternoise,62767,Saint-Pol-sur-Ternoise,100,4677,exact,Olivier LOISEL
+62,Saint-Pol-sur-Ternoise,2,AGIR ENSEMBLE POUR SAINT-POL !,1,saint pol sur ternoise,62767,Saint-Pol-sur-Ternoise,100,4677,exact,Danielle VASSEUR
+62,Saint-Pol-sur-Ternoise,3,"AVEC LES SAINT-POLOIS, AUTREMENT",1,saint pol sur ternoise,62767,Saint-Pol-sur-Ternoise,100,4677,exact,Claude ROUSSEZ
+62,Thiembronne,1,THIEMBRONNE AUTREMENT,1,thiembronne,62812,Thiembronne,100,815,exact,Olivier POURCHEZ
+62,Thiembronne,2,ENGAGÉS POUR THIEMBRONNE,1,thiembronne,62812,Thiembronne,100,815,exact,Didier DEWAMIN
+62,Vendin-lès-Béthune,1,ENSEMBLE POUR VENDIN - CONSTRUISONS L'AVENIR,1,vendin les bethune,62841,Vendin-lès-Béthune,100,2374,exact,Sylvie MEYFROIDT
+62,Vendin-lès-Béthune,2,V2026 Une équipe proche pour une commune vivante,1,vendin les bethune,62841,Vendin-lès-Béthune,100,2374,exact,Patrick MORIEN
+62,Vendin-lès-Béthune,3,"Entre hier et demain, un avenir en commun",1,vendin les bethune,62841,Vendin-lès-Béthune,100,2374,exact,Léo BRUNON
+62,Verton,1,Un Nouvel Elan pour Verton,1,verton,62849,Verton,100,2571,exact,Guislaine LEBAS
+62,Verton,2,23 pour les Vertonnois,1,verton,62849,Verton,100,2571,exact,Joël LEMAIRE
+62,Verton,3,Objectif Verton,1,verton,62849,Verton,100,2571,exact,Olivier VALEMBOIS
+62,Verton,4,"Verton en mouvement, ensemble !",1,verton,62849,Verton,100,2571,exact,Eric LETENDART
+62,Vitry-en-Artois,2,Ensemble ! pour l'avenir de Vitry,1,vitry en artois,62865,Vitry-en-Artois,100,4849,exact,Maryse LOUIS
+62,Vitry-en-Artois,3,NOS RACINES UN HORIZON,1,vitry en artois,62865,Vitry-en-Artois,100,4849,exact,Éric GIRAUD
+62,Wizernes,1,AGIR EN COMMUN POUR WIZERNES,1,wizernes,62902,Wizernes,100,3321,exact,Dominique LANOY
+62,Wizernes,2,Un nouveau souffle pour Wizernes,1,wizernes,62902,Wizernes,100,3321,exact,Laurent BRUNET
